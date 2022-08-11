@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://principlebrothers.github.io/csb-0d18dk/static/css/main.0dd230f6.chunk.css",
+    "main.js": "https://principlebrothers.github.io/csb-0d18dk/static/js/main.4498718c.chunk.js",
+    "main.js.map": "https://principlebrothers.github.io/csb-0d18dk/static/js/main.4498718c.chunk.js.map",
+    "runtime-main.js": "https://principlebrothers.github.io/csb-0d18dk/static/js/runtime-main.1dd80cd2.js",
+    "runtime-main.js.map": "https://principlebrothers.github.io/csb-0d18dk/static/js/runtime-main.1dd80cd2.js.map",
+    "static/js/2.8b985b57.chunk.js": "https://principlebrothers.github.io/csb-0d18dk/static/js/2.8b985b57.chunk.js",
+    "static/js/2.8b985b57.chunk.js.map": "https://principlebrothers.github.io/csb-0d18dk/static/js/2.8b985b57.chunk.js.map",
+    "index.html": "https://principlebrothers.github.io/csb-0d18dk/index.html",
+    "static/css/main.0dd230f6.chunk.css.map": "https://principlebrothers.github.io/csb-0d18dk/static/css/main.0dd230f6.chunk.css.map",
+    "static/js/2.8b985b57.chunk.js.LICENSE.txt": "https://principlebrothers.github.io/csb-0d18dk/static/js/2.8b985b57.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1dd80cd2.js",
+    "static/js/2.8b985b57.chunk.js",
+    "static/css/main.0dd230f6.chunk.css",
+    "static/js/main.4498718c.chunk.js"
+  ]
+}
